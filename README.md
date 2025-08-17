@@ -1,2 +1,2 @@
 # word-guess
-Word guess game
+A simple word guessing game for Node.js.
